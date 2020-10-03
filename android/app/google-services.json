@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366796709082",
+    "firebase_url": "https://comed-ebc3d.firebaseio.com",
+    "project_id": "comed-ebc3d",
+    "storage_bucket": "comed-ebc3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366796709082:android:07976c2b42d59e421119e3",
+        "android_client_info": {
+          "package_name": "dhruv.hackfinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366796709082-963nsdli6oupfeeegjgacc0cueg32kgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ab0An1RsGz1jBYmPYhFHIvbFpw7pKK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366796709082-963nsdli6oupfeeegjgacc0cueg32kgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
