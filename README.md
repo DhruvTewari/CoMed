@@ -4,7 +4,8 @@
 
 
 This is a Flutter based mobile app.
-## Objective : The aim of this App is to ease the process of distrubution of vaccination of the COVID-19 virus once the vaccinaton is produced and is ready for the people.
+## Objective : 
+The aim of this App is to ease the process of distrubution of vaccination of the COVID-19 virus once the vaccinaton is produced and is ready for the people.
 
 # Why Flutter was used in the app-making process:
 
@@ -26,4 +27,5 @@ We have used the Google Maps Places API to fetch the location of Hospitals based
 
 [Make sure to replace all API_KEY with personal AOI_KEY generated from Google Maps Platform]
 
-## Results : Order and systematic method to get the vaccination done following COVID-19 rules. In difficult times knowing the exact amount of vaccien to be bought will benefit hospitals to spend the correct amount of its resources on vaccine.
+## Results : 
+Order and systematic method to get the vaccination done following COVID-19 rules. In difficult times knowing the exact amount of vaccien to be bought will benefit hospitals to spend the correct amount of its resources on vaccine.
