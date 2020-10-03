@@ -24,4 +24,6 @@ After a vaccine passes its human testing, the government has to deal with provid
 
 We have used the Google Maps Places API to fetch the location of Hospitals based on the geolocation of the user.
 
+[Make sure to replace all API_KEY with personal AOI_KEY generated from Google Maps Platform]
+
 ## Results : Order and systematic method to get the vaccination done following COVID-19 rules. In difficult times knowing the exact amount of vaccien to be bought will benefit hospitals to spend the correct amount of its resources on vaccine.
