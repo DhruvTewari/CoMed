@@ -5,7 +5,7 @@
 
 This is a Flutter based mobile app.
 ## Objective : 
-The aim of this App is to ease the process of distrubution of vaccination of the COVID-19 virus once the vaccinaton is produced and is ready for the people.
+The aim of this App is to ease the process of distribution of vaccination of the COVID-19 virus once the vaccination is produced and is ready for the people.
 
 # Why Flutter was used in the app-making process:
 
