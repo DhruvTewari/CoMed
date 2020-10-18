@@ -18,3 +18,4 @@ We have used the Google Maps Places API to fetch the location of Hospitals based
 
 ## Results : 
 Order and systematic method to get the vaccination done following COVID-19 rules. In difficult times knowing the exact amount of vaccien to be bought will benefit hospitals to spend the correct amount of its resources on vaccine.
+
