@@ -94,32 +94,29 @@ class _WelcomeScreenState extends State<WelcomeScreen> with SingleTickerProvider
                       ),
                     ),
 
-                    Flexible(
-                      flex: 1,
-                      child: Padding(
-                        padding: EdgeInsets.only(top:height*0.016),
-                        child: FadeAnimatedTextKit(
-                          duration: Duration(seconds: 16),
+                    Padding(
+                      padding: EdgeInsets.only(top:height*0.016),
+                      child: FadeAnimatedTextKit(
+                        duration: Duration(seconds: 16),
 
 
-                          onTap: (){
-                          },
-                          text: [
-                            'Hello',
-                            'नमस्ते',
-                            'Hola',
-                            'مرحبا',
-                            'Bonjour',
-                            'Hello',
-                          ],
-                          textAlign: TextAlign.center,
-                          textStyle: TextStyle(
-                            fontSize: 38,
-                            color: Colors.blueAccent,
-                            fontWeight: FontWeight.w800,
-                            letterSpacing: 0.3,
-                            // fontStyle: ,
-                          ),
+                        onTap: (){
+                        },
+                        text: [
+                          'Hello',
+                          'नमस्ते',
+                          'Hola',
+                          'مرحبا',
+                          'Bonjour',
+                          'Hello',
+                        ],
+                        textAlign: TextAlign.center,
+                        textStyle: TextStyle(
+                          fontSize: 38,
+                          color: Colors.blueAccent,
+                          fontWeight: FontWeight.w800,
+                          letterSpacing: 0.3,
+                          // fontStyle: ,
                         ),
                       ),
                     ),
