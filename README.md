@@ -1,6 +1,5 @@
-# Hackfinity Project IOSD
-# Team DhruvTewari
-## Team Members: Dhruv Tewari, Vedant hoshing
+# HackGT7
+## Team Members: Dhruv Tewari, Adolfo Moren, Corinne Vicario, Subhash Tanikella
 
 
 This is a Flutter based mobile app.
