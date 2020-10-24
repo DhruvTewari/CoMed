@@ -13,7 +13,7 @@ int left(String dates){
 }
 
 
-final apiKey = 'AIzaSyCucUot-tluWcLZ3GoGgir7bzLvD4cPDSM';
+final apiKey = 'API_KEY';
 
 String logged_dates;
 String logged_email;

@@ -9,7 +9,7 @@ import 'dart:math';
 
 import 'link.dart';
 
-final apiKey = 'AIzaSyCucUot-tluWcLZ3GoGgir7bzLvD4cPDSM';
+final apiKey = 'API_KEY';
 final url = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=';
 final Firestore _firestore = Firestore.instance;
 FirebaseUser loggedInUser;
