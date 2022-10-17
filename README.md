@@ -14,3 +14,4 @@ This application will help each citizen go to the hospital closest to their loca
 Order and systematic method to get the vaccination done following COVID-19 rules.<br>
 In difficult times knowing the exact amount of vaccine to be bought will benefit hospitals to spend the correct amount of its resources on vaccines.
 
+Link for youtube video : https://youtu.be/oL5sbPD0mjo
